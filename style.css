@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    display: grid;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+main{
+grid-template-columns: repeat(3, 1fr);
+margin: 2rem grid;
+max-width: 1024px;
+gap: 1rem;
+}
+.product{
+    background-color: lightslategray;
+    padding: 200px;
+    text-align: center;
+    border-radius: 100%;
+
+
+}
+p{
+color: whitesmoke;
+}
