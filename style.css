@@ -10,17 +10,15 @@ body {
 main{
 grid-template-columns: repeat(3, 1fr);
 margin: 2rem grid;
-max-width: 1024px;
+max-width: 10000px;
 gap: 1rem;
 }
 .product{
-    background-color: lightslategray;
+    background-color: rgb(0, 0, 255);
     padding: 200px;
     text-align: center;
     border-radius: 100%;
-
-
 }
 p{
-color: whitesmoke;
+color: rgb(255, 255, 255);
 }
