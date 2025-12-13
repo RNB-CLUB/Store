@@ -1,31 +1,31 @@
 {
   "users": [
     {
-      "user_id": "u1",
+      "user_id": "1",
       "username": "Ivan_Seller",
       "role": "seller",
       "email": "ivan.s@electroshop.ua"
     },
     {
-      "user_id": "u2",
+      "user_id": "2",
       "username": "Olena_Tech",
       "role": "seller",
       "email": "olena.t@electroshop.ua"
     },
     {
-      "user_id": "u3",
+      "user_id": "3",
       "username": "Petro_Gadgets",
       "role": "seller",
       "email": "petro.g@electroshop.ua"
     },
     {
-      "user_id": "u4",
+      "user_id": "4",
       "username": "Buyer_Lviv",
       "role": "buyer",
       "email": "buyer.lviv@gmail.com"
     },
     {
-      "user_id": "u5",
+      "user_id": "5",
       "username": "Manager_Store",
       "role": "manager",
       "email": "manager@electroshop.ua"
@@ -33,163 +33,171 @@
   ],
   "products": [
     {
-      "product_id": "p101",
+      "product_id": "101",
       "name": "Ноутбук Dell XPS 13",
       "category": "Laptops",
       "price": 45000.00,
-      "seller_id": "u1",
+      "seller_id": "1",
       "in_stock": true
     },
     {
-      "product_id": "p102",
+      "product_id": "102",
       "name": "Смартфон Samsung Galaxy S23",
       "category": "Smartphones",
       "price": 32000.00,
-      "seller_id": "u2",
+      "seller_id": "2",
       "in_stock": true
     },
     {
-      "product_id": "p103",
+      "product_id": "103",
       "name": "Бездротові навушники Sony WH-1000XM5",
       "category": "Audio",
       "price": 12500.00,
-      "seller_id": "u3",
+      "seller_id": "3",
       "in_stock": true
     },
     {
-      "product_id": "p104",
+      "product_id": "104",
       "name": "Планшет Apple iPad Air (5th Gen)",
       "category": "Tablets",
       "price": 24000.00,
-      "seller_id": "u1",
+      "seller_id": "1",
       "in_stock": false
     },
     {
-      "product_id": "p105",
-      "name": "Монітор LG UltraGear 27\" QHD",
+      "product_id": "105",
+      "name": "Монітор LG UltraGear 27 QHD",
       "category": "Monitors",
       "price": 15800.00,
-      "seller_id": "u2",
+      "seller_id": "2",
       "in_stock": true
     },
     {
-      "product_id": "p106",
+      "product_id": "106",
       "name": "Ігрова миша Logitech G Pro X Superlight",
       "category": "Peripherals",
       "price": 4900.00,
-      "seller_id": "u3",
+      "seller_id": "3",
       "in_stock": true
     },
     {
-      "product_id": "p107",
+      "product_id": "107",
       "name": "Камера Canon EOS R6 Mark II",
       "category": "Cameras",
       "price": 98000.00,
-      "seller_id": "u1",
+      "seller_id": "1",
       "in_stock": true
     },
     {
-      "product_id": "p108",
+      "product_id": "108",
       "name": "Фітнес-трекер Xiaomi Smart Band 7",
       "category": "Wearables",
       "price": 1800.00,
-      "seller_id": "u2",
+      "seller_id": "2",
       "in_stock": true
     },
     {
-      "product_id": "p109",
+      "product_id": "109",
       "name": "Смарт-годинник Apple Watch Series 8",
       "category": "Wearables",
       "price": 18500.00,
-      "seller_id": "u3",
+      "seller_id": "3",
       "in_stock": false
     },
     {
-      "product_id": "p110",
+      "product_id": "110",
       "name": "Портативний SSD SanDisk Extreme 1TB",
       "category": "Storage",
       "price": 5500.00,
-      "seller_id": "u1",
+      "seller_id": "1",
       "in_stock": true
     },
     {
-      "product_id": "p111",
+      "product_id": "111",
       "name": "Електричний чайник Bosch TWK7901",
       "category": "Home Appliances",
       "price": 2100.00,
-      "seller_id": "u2",
+      "seller_id": "2",
       "in_stock": true
     },
     {
-      "product_id": "p112",
+      "product_id": "112",
       "name": "Кавоварка Delonghi Magnifica S ECAM 22.110.B",
       "category": "Home Appliances",
       "price": 14000.00,
-      "seller_id": "u3",
+      "seller_id": "3",
       "in_stock": true
     },
     {
-      "product_id": "p113",
+      "product_id": "113",
       "name": "Ігрова клавіатура Razer BlackWidow V3",
       "category": "Peripherals",
       "price": 5200.00,
-      "seller_id": "u1",
+      "seller_id": "1",
       "in_stock": true
     },
     {
-      "product_id": "p114",
+      "product_id": "114",
       "name": "Система розумного будинку Google Nest Hub (2nd Gen)",
       "category": "Smart Home",
       "price": 3800.00,
-      "seller_id": "u2",
+      "seller_id": "2",
       "in_stock": true
     },
     {
-      "product_id": "p115",
+      "product_id": "115",
       "name": "Смартфон iPhone 14 Pro Max",
       "category": "Smartphones",
       "price": 48000.00,
-      "seller_id": "u3",
+      "seller_id": "3",
       "in_stock": true
     },
     {
-      "product_id": "p116",
+      "product_id": "116",
       "name": "Дрон DJI Mini 3 Pro",
       "category": "Drones",
       "price": 29000.00,
-      "seller_id": "u1",
+      "seller_id": "1",
       "in_stock": true
     },
     {
-      "product_id": "p117",
+      "product_id": "117",
       "name": "Акустична система JBL Charge 5",
       "category": "Audio",
       "price": 5900.00,
-      "seller_id": "u2",
+      "seller_id": "2",
       "in_stock": false
     },
     {
-      "product_id": "p118",
+      "product_id": "118",
       "name": "Настільний ПК (Збірка High-End)",
       "category": "Desktops",
       "price": 75000.00,
-      "seller_id": "u3",
+      "seller_id": "3",
       "in_stock": true
     },
     {
-      "product_id": "p119",
+      "product_id": "119",
       "name": "Електронна книга PocketBook 633 Color",
       "category": "E-Readers",
       "price": 7200.00,
-      "seller_id": "u1",
+      "seller_id": "1",
       "in_stock": true
     },
     {
-      "product_id": "p120",
+      "product_id": "120",
       "name": "Робот-пилосос Roborock S7 MaxV Ultra",
       "category": "Home Appliances",
       "price": 35000.00,
-      "seller_id": "u2",
+      "seller_id": "2",
+      "in_stock": true
+    },
+    {
+      "product_id": "p121",
+      "name": "Телевізор Samsung Neo QLED 65\"",
+      "category": "TVs",
+      "price": 65000.00,
+      "seller_id": "3",
       "in_stock": true
     }
   ]

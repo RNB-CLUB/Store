@@ -38,9 +38,3 @@ function drawProducts(products) {
 }
 getProducts()
 getUsers()
-
-let cartButton = document.getElementById("cart")
-let cartIsOpen = false
-cartButton.addEventListener("click", function(){
-    cartIsOpen = !cartIsOpen
-})
